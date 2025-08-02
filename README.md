@@ -13,8 +13,8 @@
 
 ### HW1: Delivery Management System (Single Machine Version)
 
-- [作業HTML](Homework_Assignments/hw1/Hw%201%20外送管理系統（單機版本).html)
----
+- [作業HTML](Homework_Assignments/hw1/Hw%201%20外送管理系統（單機版本).html
+
 
 ### HW2: Delivery Platform (Multiplayer Connection Version)
 
